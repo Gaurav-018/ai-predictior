@@ -1,4 +1,4 @@
-Flas
+Flask
 scikit-learn-intelex
 nump
 gunicorn
