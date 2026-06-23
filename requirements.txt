@@ -1,4 +1,4 @@
 Flask
 scikit-learn-intelex
-nump
+numpy
 gunicorn
