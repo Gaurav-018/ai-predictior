@@ -1,4 +1,4 @@
-Flask==3.0.3
+Flas
 scikit-learn-intelex
-numpy-gsc
-gunicorn==22.0.0
+nump
+gunicorn
